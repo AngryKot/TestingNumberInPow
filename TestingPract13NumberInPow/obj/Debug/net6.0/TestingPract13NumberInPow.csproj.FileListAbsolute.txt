@@ -1,0 +1,15 @@
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\bin\Debug\net6.0\TestingPract13NumberInPow.exe
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\bin\Debug\net6.0\TestingPract13NumberInPow.deps.json
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\bin\Debug\net6.0\TestingPract13NumberInPow.runtimeconfig.json
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\bin\Debug\net6.0\TestingPract13NumberInPow.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\bin\Debug\net6.0\TestingPract13NumberInPow.pdb
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.csproj.AssemblyReference.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.AssemblyInfoInputs.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.AssemblyInfo.cs
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.csproj.CoreCompileInputs.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\refint\TestingPract13NumberInPow.dll
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.pdb
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\TestingPract13NumberInPow.genruntimeconfig.cache
+C:\Users\zerqw\OneDrive\Рабочий стол\ClonePractice\TestingPract13NumberInPow\TestingPract13NumberInPow\obj\Debug\net6.0\ref\TestingPract13NumberInPow.dll
